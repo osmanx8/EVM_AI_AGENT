@@ -79,6 +79,6 @@ Allows in-chat transfers, top-ups, and transaction approvals
 This repository contains only the frontend component for security and IP protection.
 If you're interested in the full system (including backend services), please reach out directly:
 
-📧 Email: hyperbuildx@adamglab.dev
+📧 Email: oxalphadev@gmail.com
 
 💬 Telegram: @web3_maxim
