@@ -1,31 +1,39 @@
 # 🤖 EVM AI Agent
-
-**EVM AI Agent** is an intelligent, natural-language interface for interacting with multiple EVM-compatible blockchains. It helps users execute transactions, deploy and verify contracts, check wallet balances, and more — all via friendly, chat-based interaction.
+EVM AI Agent is a conversational AI interface designed for seamless interaction with EVM-compatible blockchains. Through natural language input, users can perform complex blockchain operations like transactions, contract deployments, token management, and more—all within a friendly, chat-driven environment..
 
 ---
 
-## 🔥 Features
+## 🔥 🚀 Key Capabilities
 
-### 🔧 Blockchain Interactions
-- Token transfers, swaps, and bridges
-- Smart contract generation, deployment, and verification
-- Custom token deployment with metadata
+### 🔧 Blockchain Operations
+Conduct token transfers, swaps, and bridge operations
+
+Automatically generate, deploy, and verify smart contracts
+
+Launch custom tokens with metadata and advanced parameters
 
 ### 🧠 AI-Powered Understanding
-- Accepts natural language commands (e.g., "swap 1 ETH to USDC on Ethereum")
-- Breaks down multi-step operations with confirmations
-- Explains blockchain operations in plain English
+Interprets natural commands (e.g., “swap 1 ETH to USDC on Ethereum”)
+
+Breaks down multi-step tasks with confirmation flows
+
+Simplifies blockchain interactions with clear explanations
 
 ### 🪙 Wallet & Token Utilities
-- Detect wallet balances (ETH, tokens)
-- Fetch live token prices using CoinGecko
-- Resolve token names to addresses
-- Chain-aware behavior (Ethereum, Polygon, Onyx, etc.)
+Retrieve wallet balances across ETH and ERC tokens
+
+Resolve token names and addresses accurately
+
+Fetch live market data using integrated price feeds (via CoinGecko)
+
+Detect the correct chain context (Ethereum, Polygon, Onyx, etc.)
 
 ### 🔐 Embedded Wallet Support (via Privy)
-- Auto-create embedded wallet for each user
-- Supports external wallet connection
-- Charge & manage funds through chat interface
+Instantly generates embedded wallets for new users
+
+Supports linking external wallets
+
+Allows in-chat transfers, top-ups, and transaction approvals
 
 ### 📚 Onyx Chain Integration
 - Automatically fetches context from Onyx Chain whitepaper PDF
@@ -67,9 +75,10 @@
 
 ---
 
-## 📝 Note
-This repo includes only Frontend part due to the security concerns.
-If you have any questions or want the whole product including Backend part, please feel free to contact us to below contacts.
+## ⚠️ Notice
+This repository contains only the frontend component for security and IP protection.
+If you're interested in the full system (including backend services), please reach out directly:
 
-- E-Mail: hyperbuildx@adamglab.dev
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+📧 Email: hyperbuildx@adamglab.dev
+
+💬 Telegram: @web3_maxim
